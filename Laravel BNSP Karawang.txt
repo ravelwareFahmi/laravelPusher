@@ -1,0 +1,21 @@
+Kelebihan 
+    dokumentasi banyak
+Kekurangan
+    tidak mudah dipahamai
+    realtif lebih besar ukuranya
+    membutuhkan koneksi internet
+
+dikelas ini akan belajar 
+    perkenalan laravel
+
+persiapan dan instalisasi
+    Komputer os windows 10
+    internet yang bagus :)
+    keingininan belajar yang kuat
+
+Software yang dibutuhkan
+    xampp 7.1
+    composer
+
+    crud
+
